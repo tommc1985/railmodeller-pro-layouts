@@ -32,8 +32,8 @@ Enjoy, Thomas.
 ### kato-n-3x4-pretzel [link](kato-n-3x4-pretzel.layout)
 ![image](images/kato-n-3x4-pretzel.png)
 
-### kato-n-kato-n-curly-wurly [link](kato-n-kato-n-curly-wurly.layout)
-![image](images/kato-n-kato-n-curly-wurly.png)
+### kato-n-curly-wurly [link](kato-n-curly-wurly.layout)
+![image](images/kato-n-curly-wurly.png)
 
 ### kato-n-curved-oval [link](kato-n-curved-oval.layout)
 ![image](images/kato-n-curved-oval.png)
