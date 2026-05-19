@@ -11,7 +11,7 @@ Enjoy, Thomas.
 
 ## Layouts
 
-### kato-3x4-pretzel-2 [link](blob/master/kato-3x4-pretzel-2.layout)
+### kato-3x4-pretzel-2 [link](kato-3x4-pretzel-2.layout)
 ![image](images/kato-3x4-pretzel-2.png)
 
 ### kato-double-loop-v1.png [link](blob/master/kato-double-loop-v1.png.layout)
