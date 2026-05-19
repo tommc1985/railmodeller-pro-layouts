@@ -1,6 +1,6 @@
 # RailModeller Pro layouts
 
-A number of RailModeller Pro layouts for Kato Unitrack N gauge that I've been messing around with, while trying to decide what layout to build in the future myself (I'm restricted space-wise so all of the layout are pretty small - I don't think any are bigger than 1,400mm x 1,100mm).
+A number of RailModeller Pro layouts for KATO N Scale UniTrack that I've been messing around with, while trying to decide what layout to build in the future myself (I'm restricted space-wise so all of the layout are pretty small - I don't think any are bigger than 1,400mm x 1,100mm).
 
 I'm only really sharing them as to give beginners some ideas for their own layouts - they're probably not for prototypical die-hards or "less is more" advocates. You'll also notice that some of the track doesn't quite align on some of the layouts, or there are missing feeders (or the feeders are in slightly the wrong place etc).
 
